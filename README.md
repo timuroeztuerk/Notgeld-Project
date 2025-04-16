@@ -1,7 +1,3 @@
-In order to replicate from scratch, follow the steps below:
+![Notgeld aus Weimar (Thüringen) in Höhe von einer Million Mark aus dem Jahr 1923, gestaltet von Herbert Bayer.](https://commons.wikimedia.org/wiki/File:Notgeld_1923.jpg#/media/File:Notgeld_1923.jpg)
 
-1- Run the wurttemberg-with-names-generate.r to create the shapefile for our purposes.
-2- Run the reichsbank-locations-generate.py to create the locations data for reichsbank.
-3- Run the reichsbank-distances-generate.py to create the distances data for reichsbank.
-
-Then the data is ready to be used in the visualization, which is as a jupyter notebook called Visualizations.ipynb.
+# Welcome to the Notgeld Project!
