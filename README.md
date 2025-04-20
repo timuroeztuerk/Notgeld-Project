@@ -15,4 +15,7 @@ This repository contains the collection of "**Notgeld**" from Germany in 20th ce
 
 Our aim in this repository is to scrape the available and surviving Notgeld from several sources, and create a database of these notes. Then, merging this information with academic research, we will create maps, regressions and other visualizations to understand the impact of Notgeld on the economy and society of Germany during this period.
 
+
+*Repository Image: "Notgeld des Landes Thüringen aus der Landeshauptstadt Weimar aus dem Jahr 1923 in der Zeit der deutschen Inflation aus der Bauhausdruckerei, gestaltet von Herbert Bayer", https://commons.wikimedia.org/wiki/File:Notgeld_1923.jpg#/media/Datei:Notgeld_1923.jpg*
+
 </div>
